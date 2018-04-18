@@ -3,9 +3,10 @@ body{
 }
 
 .bandera{
-  display: block;
+  display: inline-block;
+  margin: 0px 10px;
   height: 20vh;
-  width: 50%
+  width: 30%
 
 }
 /*p{
@@ -20,6 +21,6 @@ body{
   background-color: gray;
   color: white;
 }
-/*#texto-mayusculas{
+#texto-mayusculas{
   text-transform: uppercase;
-}*/
+}
